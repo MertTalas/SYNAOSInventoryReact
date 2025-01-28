@@ -1,0 +1,154 @@
+{
+    "8b6fa822-faed-4ade-8b11-e0fc49325301": {
+        "id": "8b6fa822-faed-4ade-8b11-e0fc49325301",
+        "itemName": "SYNAOS-AGV-008",
+        "mapPositionX": 0,
+        "mapPositionY": 30,
+        "mapPositionRotation": 2.4558622351,
+        "fleetState": "IN_FLEET",
+        "loaded": false,
+        "batteryChargePercentage": 100
+    },
+    "e00f8505-ff14-44cd-a86c-9668f83c1d3a": {
+        "id": "e00f8505-ff14-44cd-a86c-9668f83c1d3a",
+        "itemName": "SYNAOS-TT-JIS-001",
+        "mapPositionX": 43.75,
+        "mapPositionY": 45.35,
+        "mapPositionRotation": -1.5707963268,
+        "fleetState": "OUT_OF_FLEET",
+        "loaded": false,
+        "batteryChargePercentage": 19
+    },
+    "4f7b0f46-9398-4707-8b35-8e4034e3126b": {
+        "id": "4f7b0f46-9398-4707-8b35-8e4034e3126b",
+        "itemName": "SYNAOS-AGV-001",
+        "mapPositionX": 0,
+        "mapPositionY": 60,
+        "mapPositionRotation": -3.1415926536,
+        "fleetState": "IN_FLEET",
+        "loaded": false,
+        "batteryChargePercentage": 100
+    },
+    "d9f71446-74b9-44a3-8c92-c522a576529b": {
+        "id": "d9f71446-74b9-44a3-8c92-c522a576529b",
+        "itemName": "SYNAOS-TT-KLT-001",
+        "mapPositionX": 95,
+        "mapPositionY": 57.5,
+        "mapPositionRotation": 0,
+        "fleetState": "OUT_OF_FLEET",
+        "loaded": false,
+        "batteryChargePercentage": 100
+    },
+    "90b1572b-6b48-4c77-a9c2-0d1a2a30db82": {
+        "id": "90b1572b-6b48-4c77-a9c2-0d1a2a30db82",
+        "itemName": "SYNAOS-AGV-006",
+        "mapPositionX": 4.83,
+        "mapPositionY": 60,
+        "mapPositionRotation": -3.1415926536,
+        "fleetState": "IN_FLEET",
+        "loaded": false,
+        "batteryChargePercentage": 100
+    },
+    "aea25c77-3bc6-4a93-a410-ab3e3ad31e8c": {
+        "id": "aea25c77-3bc6-4a93-a410-ab3e3ad31e8c",
+        "itemName": "SYNAOS-AGV-007",
+        "mapPositionX": 40.5,
+        "mapPositionY": -2,
+        "mapPositionRotation": -3.1415926536,
+        "fleetState": "IN_FLEET",
+        "loaded": false,
+        "batteryChargePercentage": 49
+    },
+    "a6ba6003-4657-40f7-8d67-f8eaad766cdd": {
+        "id": "a6ba6003-4657-40f7-8d67-f8eaad766cdd",
+        "itemName": "SYNAOS-AGV-011",
+        "mapPositionX": 90,
+        "mapPositionY": 10,
+        "mapPositionRotation": 1.5707963268,
+        "fleetState": "IN_FLEET",
+        "loaded": false,
+        "batteryChargePercentage": 100
+    },
+    "23aabdc4-f654-4bd7-bda8-b57f9a8cb4d1": {
+        "id": "23aabdc4-f654-4bd7-bda8-b57f9a8cb4d1",
+        "itemName": "SYNAOS-TT-JIS-002",
+        "mapPositionX": -2.25,
+        "mapPositionY": 57.5,
+        "mapPositionRotation": 0.0000053606,
+        "fleetState": "IN_FLEET",
+        "loaded": false,
+        "batteryChargePercentage": 100
+    },
+    "00439f41-8523-4216-9da0-4f70416d9b03": {
+        "id": "00439f41-8523-4216-9da0-4f70416d9b03",
+        "itemName": "SYNAOS-AGV-002",
+        "mapPositionX": 3,
+        "mapPositionY": 32.45,
+        "mapPositionRotation": -3.1415926536,
+        "fleetState": "IN_FLEET",
+        "loaded": false,
+        "batteryChargePercentage": 50
+    },
+    "f4537872-a590-4931-8c52-534da69b5350": {
+        "id": "f4537872-a590-4931-8c52-534da69b5350",
+        "itemName": "SYNAOS-AGV-010",
+        "mapPositionX": 46.5,
+        "mapPositionY": 47.18,
+        "mapPositionRotation": 1.5707963268,
+        "fleetState": "IN_FLEET",
+        "loaded": true,
+        "loadFromTransportOrder": false,
+        "batteryChargePercentage": 99
+    },
+    "df33a6cd-5342-4f01-89b8-1f46eccbe553": {
+        "id": "df33a6cd-5342-4f01-89b8-1f46eccbe553",
+        "itemName": "SYNAOS-AGV-009",
+        "mapPositionX": 30,
+        "mapPositionY": 3,
+        "mapPositionRotation": 1.2490457724,
+        "fleetState": "IN_FLEET",
+        "loaded": false,
+        "batteryChargePercentage": 100
+    },
+    "2863dec8-fe6f-44e7-a3d5-56d5d90c3e5c": {
+        "id": "2863dec8-fe6f-44e7-a3d5-56d5d90c3e5c",
+        "itemName": "SYNAOS-AGV-005",
+        "mapPositionX": 7.16,
+        "mapPositionY": 64,
+        "mapPositionRotation": -3.1415926536,
+        "fleetState": "IN_FLEET",
+        "loaded": false,
+        "batteryChargePercentage": 100
+    },
+    "a99c8938-a45b-4115-bb8c-322a03869825": {
+        "id": "a99c8938-a45b-4115-bb8c-322a03869825",
+        "itemName": "SYNAOS-AGV-003",
+        "mapPositionX": 43.5,
+        "mapPositionY": 52.09,
+        "mapPositionRotation": -1.5707963268,
+        "fleetState": "OUT_OF_FLEET",
+        "loaded": true,
+        "loadFromTransportOrder": false,
+        "batteryChargePercentage": 100
+    },
+    "b2f23855-fce0-4773-ac06-6d070cc4fd6b": {
+        "id": "b2f23855-fce0-4773-ac06-6d070cc4fd6b",
+        "itemName": "SYNAOS-TT-KLT-002",
+        "mapPositionX": 101.75,
+        "mapPositionY": 57.5,
+        "mapPositionRotation": 0,
+        "fleetState": "OUT_OF_FLEET",
+        "loaded": false,
+        "batteryChargePercentage": 100
+    },
+    "3a84dd82-0cc6-4705-a786-50027d8ac97a": {
+        "id": "3a84dd82-0cc6-4705-a786-50027d8ac97a",
+        "itemName": "SYNAOS-AGV-004",
+        "mapPositionX": 9.67,
+        "mapPositionY": 60,
+        "mapPositionRotation": -3.1415926536,
+        "fleetState": "IN_FLEET",
+        "loaded": false,
+        "batteryChargePercentage": 96
+    }
+}
