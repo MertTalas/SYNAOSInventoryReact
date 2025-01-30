@@ -1,54 +1,72 @@
-<<<<<<< HEAD
-# SYNAOSInventoryReact
-=======
-# React + TypeScript + Vite
+# SynaosInventoryReact 📦
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 Deployment
+The application is deployed using GitHub Pages and can be accessed at:
+https://merttalas.github.io/SYNAOSInventoryReact/
 
-Currently, two official plugins are available:
+## 📱 About The Project
+SynaosInventoryReact is a modern web application built with React for efficient inventory management. It provides real-time monitoring of inventory items, including their status, states of items, and position info all presented in a clean and intuitive user interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
+- Inventory item monitoring and listing
+- Battery status tracking with visual indicators 
+- Material Design-based user interface
+- Interactive item selection with Sidebar
+- Item detail displayed in Sidebar
+- Responsive design for all screen sizes
 
-## Expanding the ESLint configuration
+## 🏗 Architecture
+This project follows React's recommended architectural patterns:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+1. Component-Based Architecture:
+  - Functional components with hooks
+  - Custom hooks for shared logic
+  - Reusable UI components
 
-- Configure the top-level `parserOptions` property like this:
+2. State Management:
+  - React hooks (useState, useEffect)
+  - URL-based state management with useSearchParams
+  - Component chaining for communication
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+3. Material UI Integration:
+  - Uses MUI components
+  - Custom theme configuration
+  - Responsive design principles
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+## 🛠 Built With
+- React 18.3.1
+- Material UI (MUI)
+ - AppBar
+ - Toolbar
+ - Typography
+ - CssBaseline
+ - Container
+ - Paper
+ - Box
+ - Grid 
+ - Chip
+ - Divider
+- TypeScript
+- Vite for build tooling
+- React Router DOM for routing
+- Emotion for styled components
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+## 🏃‍♂️ Getting Started
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
->>>>>>> 5223284 (Add project files)
+### Prerequisites
+- Node.js v22.13.1 (Latest LTS Version)
+- npm 10.9.2 (comes with Node.js)
+- React version 18.3.1
+
+### Installation
+1. Clone the repository
+   ```sh
+   git clone https://github.com/MertTalas/SYNAOSInventoryReact.git
+
+3. Install NPM packages
+   ```sh
+   npm install
+
+5. npm run dev
+   ```sh
+   npm run dev
